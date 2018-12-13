@@ -1,4 +1,8 @@
 Welcome here..Its a git demo
 chnages are made..
 new changes added
-chnage1
+change1
+
+change 2 
+username
+user email
