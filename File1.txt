@@ -8,4 +8,5 @@ new changes added
 username
 user email
 
->> change --><=== 3
+>> change --> 3
+>>>>>>> 
