@@ -1,8 +1,9 @@
-Welcome here..Its a git demo
+*** Welcome to git ..Its a git demo
 chnages are made..
 new changes added
-change1
 
-change 2 
+>> change --> 1
+
+>> change --> 2 
 username
 user email
